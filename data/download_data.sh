@@ -30,4 +30,3 @@ rm ml-100k.zip
 rm -rf ml-100k
 
 echo "Dataset ready : ratings.csv"
-EOF
